@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CalculationTest.java&apos; to &apos;java4-Test/src/com.capg.junit4&apos;&#x0D;&#x0A;- Original project: &apos;java4-Test&apos;&#x0D;&#x0A;- Destination element: &apos;java4-Test/src/com.capg.junit4&apos;&#x0D;&#x0A;- Original element: &apos;com.capg.junit4.CalculationTest.java&apos;" description="Copy compilation unit" destination="/src&lt;com.capg.junit4" element1="/src&lt;com.capg.junit4{CalculationTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639733187702" units="1" version="1.0"/>
+</session>

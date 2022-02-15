@@ -1,0 +1,12 @@
+127.0.0.1 - - [28/Dec/2021:18:24:25 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:24:27 +0530] "GET /09_Springs-MVC/NewCustomer.jsp HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:24:56 +0530] "POST /09_Springs-MVC/nc.htm HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:26:47 +0530] "GET /09_springmvc/WEB-INF/dispatcher-servlet.xml HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:27:13 +0530] "GET /09_springmvc/WEB-INF/classes/web/LoginController.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:27:36 +0530] "GET /09_springmvc/WEB-INF/classes/web/LoginController.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:27:42 +0530] "GET /09_springmvc/WEB-INF/classes/web/LoginController.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:27:43 +0530] "GET /09_springmvc/WEB-INF/classes/web/LoginController.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:28:04 +0530] "GET /09_springmvc/Login.jsp HTTP/1.1" 200 455
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:28:24 +0530] "GET /09_springmvc/user.spring?user=login&pass=ram HTTP/1.1" 200 282
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:29:22 +0530] "GET /09_springmvc/Login.jsp HTTP/1.1" 200 455
+0:0:0:0:0:0:0:1 - - [28/Dec/2021:18:29:30 +0530] "GET /09_springmvc/user.spring?user=ram&pass=ram HTTP/1.1" 200 286

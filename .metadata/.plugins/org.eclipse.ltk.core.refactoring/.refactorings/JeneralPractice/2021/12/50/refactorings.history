@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Statticexample.java&apos; to &apos;corejavadevelopment/src/com.capg.corejava.Static&apos;&#x0D;&#x0A;- Original project: &apos;JeneralPractice&apos;&#x0D;&#x0A;- Destination element: &apos;corejavadevelopment/src/com.capg.corejava.Static&apos;&#x0D;&#x0A;- Original element: &apos;com.capgimini.practice.Statticexample.java&apos;" description="Copy compilation unit" destination="=corejavadevelopment/src&lt;com.capg.corejava.Static" element1="/src&lt;com.capgimini.practice{Statticexample.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639026825435" units="1" version="1.0"/>
+</session>

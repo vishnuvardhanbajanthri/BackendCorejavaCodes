@@ -1,0 +1,4 @@
+
+
+mysql> create table book(bookid int,title varchar(15),price float(7,2),grade varchar(5));
+

@@ -1,0 +1,8 @@
+
+drop table students;
+
+
+MySQL
+CREATE TABLE students (studentid int(6) PRIMARY KEY, name VARCHAR(25));
+CREATE TABLE employees (employeeid int(6) PRIMARY KEY, name VARCHAR(25));
+

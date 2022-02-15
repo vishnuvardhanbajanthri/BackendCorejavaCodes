@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.capg.datetime.LocalDate.java&apos; to &apos;LocalDateDemo.java&apos;&#x0D;&#x0A;- Original project: &apos;PracticeCoding&apos;&#x0D;&#x0A;- Original element: &apos;com.capg.datetime.LocalDate.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.capg.datetime.LocalDateDemo.java&apos;" description="Rename compilation unit &apos;LocalDate.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.capg.datetime{LocalDate.java" name="LocalDateDemo.java" references="false" stamp="1639621866060" version="1.0"/>
+</session>

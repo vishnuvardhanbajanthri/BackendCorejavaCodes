@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+    "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+ 
+<beans>  
+     <bean id="decCon" class="com.ram.spring.ioc.Employee">    </bean>
+   
+ <bean id="empadd" class="com.ram.spring.ioc.EmployeeAddress">  
+      <constructor-arg value="Bangalore"></constructor-arg>  
+      <constructor-arg value="Karnataka"></constructor-arg>  
+      <constructor-arg value="India"></constructor-arg>  
+</bean>  
+   
+ <bean id="emp" class="com.ram.spring.ioc.Employee" >  
+     <constructor-arg value="100" type="int"></constructor-arg>  
+     <constructor-arg value="Shyam"></constructor-arg>  
+    
+    <constructor-arg>  
+           <ref bean="empadd"/>  
+    </constructor-arg>  
+ </bean>  
+  </beans>  

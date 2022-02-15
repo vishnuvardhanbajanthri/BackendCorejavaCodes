@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Dec/2021:13:55:14 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:13:55:16 +0530] "GET /09_Springs-MVC/ HTTP/1.1" 500 14632
+127.0.0.1 - - [25/Dec/2021:13:57:27 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:13:57:28 +0530] "GET /09_Springs-MVC/WEB-INF/classes/beans/NewCustomerController.java HTTP/1.1" 404 1047
+127.0.0.1 - - [25/Dec/2021:14:01:09 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:14:01:11 +0530] "GET /09_springmvc/Login.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:14:01:35 +0530] "GET /09_springmvc/login.spring?user=login&pass=ram HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:14:03:06 +0530] "GET /09_springmvc/Login.jsp HTTP/1.1" 200 455
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:14:03:15 +0530] "GET /09_springmvc/user.spring?user=ram&pass=ram HTTP/1.1" 200 286
+127.0.0.1 - - [25/Dec/2021:20:36:00 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:20:36:05 +0530] "GET /09_Springs-MVC/NewCustomer.jsp HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:20:36:22 +0530] "POST /09_Springs-MVC/nc.htm HTTP/1.1" 500 8096
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:20:38:20 +0530] "GET /09_Springs-MVC/NewCustomer.jsp HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:20:38:35 +0530] "POST /09_Springs-MVC/nc.htm HTTP/1.1" 500 8096
